@@ -1,4 +1,5 @@
 # Suicide-and-mental-fatigue-classification-on-reddit-posts
+
 We created our own dataset using Reddit APIs and webcrawling using PRAW on multiple subreddits and search queries focusing on happy and sad content.
 Data preprocessing: extracted datasets is stripped from unnecessary characters and certain emojis. Then, the dataset is tokenized and combined.
 Fine-tuning RoBERTa: We imported RoBERTa from huggingface transformers and fine-tuned it. The model is trained with a small labelled dataset available which does not contain any additional features. We try with different classification heads (XGB and simple NN with a linear output).  
