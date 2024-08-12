@@ -8,3 +8,4 @@ Transfer learning: We use the fine-tuned model to label the dataset created.
 ![Screenshot 2024-05-28 160813](https://github.com/Achutha2704/Suicide-and-mental-fatigue-classification-on-reddit-posts/assets/113625925/bf4d5261-ab65-44b7-a3e2-d62943ccff22)
 
 ![Screenshot 2024-05-28 160843](https://github.com/Achutha2704/Suicide-and-mental-fatigue-classification-on-reddit-posts/assets/113625925/5d5e2164-952a-4380-b27b-70398e43dc2f)
+
